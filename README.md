@@ -110,14 +110,14 @@ The project was designed and implemented as a real-world operational solution fo
 
 | Technology | Purpose                       |
 | ---------- | ----------------------------- |
-| Python     | Core backend logic            |
-| Streamlit  | Frontend framework            |
-| SQL Server | Database system               |
-| SQLAlchemy | Database ORM/queries          |
-| Pandas     | Data processing               |
-| Plotly     | Analytics & visualizations    |
-| OpenPyXL   | Report generation             |
-| Requests   | Exchange rate API integration |
+| Python     | Core Backend Logic            |
+| Streamlit  | Frontend Framework            |
+| SQL Server | Database System               |
+| SQLAlchemy | Database ORM/Queries          |
+| Pandas     | Data Processing               |
+| Plotly     | Analytics & Visualizations    |
+| OpenPyXL   | Report Generation             |
+| API Requests   | Exchange Rate API Integration |
 
 ---
 
