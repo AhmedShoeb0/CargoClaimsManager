@@ -1,0 +1,23 @@
+# Core app
+streamlit
+streamlit-extras
+
+# Data & visualization
+pandas
+plotly
+
+# Excel handling
+openpyxl
+pillow
+
+# Database / ORM
+sqlalchemy
+requests
+
+# Windows-specific (for win32com.client)
+pywin32
+
+# Optional but commonly needed DB drivers (safe to keep)
+pyodbc
+psycopg2-binary
+pymysql
